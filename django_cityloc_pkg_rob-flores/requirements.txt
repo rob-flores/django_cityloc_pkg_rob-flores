@@ -1,0 +1,2 @@
+# add any project dependencties here
+djang>=3.2
