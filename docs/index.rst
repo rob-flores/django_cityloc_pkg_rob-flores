@@ -8,13 +8,6 @@ Welcome to django_cityloc_pkg's documentation!
 
 .. automodule:: django_cityloc_pkg_rob-flores
    :members:
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
 Indices and tables
 ==================
 
